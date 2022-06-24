@@ -1,16 +1,7 @@
 # projeto01
 
-A new Flutter project.
+Primeiro Projeto em Flutter, contendo:
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Sistema simples de Login/Logout, onde as credenciais ficam salvas utilizando SharedPreference.
+- Consumo da API: http://jsonplaceholder.typicode.com/posts (método: get).
+- Listagem dos itens na Página Home com separator e disponíbilizando navegação para página de detalhes.
