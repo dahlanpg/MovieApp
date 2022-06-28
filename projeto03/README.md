@@ -1,16 +1,6 @@
-# projeto03
+# MovieApp
+App de Filmes desenvolvido em Flutter, compilado para Android.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Sistema de Login -- Usuário: seed / Senha: dees
+### Sistema de Busca na Página Home.
+### Hero Animation para a página de Detalhes.
